@@ -4,7 +4,7 @@
       <div
         class="d-flex justify-md-space-between flex-wrap justify-center align-center"
       >
-        <p class="white--text font-weight-bold headline mb-0">
+        <p class="white--text font-weight-bold headline mb-1">
           www.laradio.com.co
         </p>
         <div class="d-flex justify-md-space-between justify-center flex-wrap">
