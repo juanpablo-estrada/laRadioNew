@@ -302,10 +302,10 @@ export default {
         this.loading = true;
         emailjs
           .sendForm(
-            "service_swzvcdh",
-            "template_lhg8yj7",
+            "service_yonnzwx",
+            "template_z6spiu8",
             "#form",
-            "nKiiOvZJovBZILVWV"
+            "rlSPL-z0MIvyynAzQ"
           )
           .then(
             (result) => {
